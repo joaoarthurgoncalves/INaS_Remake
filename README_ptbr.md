@@ -15,8 +15,8 @@ O objetivo deste remake é preservação, estudo e continuidade criativa, respei
 
 ## Projeto Original (README original abaixo)
 
-**Nota:**
-O conteúdo a seguir é o **README original**, mantido **sem alterações**, conforme exigido pela licença zlib e por respeito aos autores originais.
+> **Nota:**
+> O conteúdo a seguir é o **README original**, mantido **sem alterações**, conforme exigido pela licença zlib e por respeito aos autores originais.
 
 # Insane Nights at Snowball's
 
