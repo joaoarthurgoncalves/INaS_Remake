@@ -1,25 +1,22 @@
 # Insane Nights at Snowball’s — Remake
 
-Este repositório contém um remake independente do jogo Insane Nights at Snowball’s,
-baseado no código-fonte original publicado por INaS Productions sob a licença zlib.
+Este repositório contém um **remake independente** do jogo **Insane Nights at Snowball’s**,
+baseado no código-fonte original publicado por **INaS Productions** sob a **licença zlib**.
 
-Este projeto não é oficial, não substitui o projeto original e não reivindica autoria do código original.
+Este projeto não é **oficial, não substitui** o projeto original e **não reivindica** autoria do código original.
 O objetivo deste remake é preservação, estudo e continuidade criativa, respeitando integralmente os termos da licença original.
 
-Sobre este remake
+### Sobre este remake
 
-Baseado no código original de Insane Nights at Snowball’s
+- Baseado no código original de Insane Nights at Snowball’s
+- Desenvolvido como um **projeto derivado**
+- Modificações, melhorias e novas decisões técnicas/artísticas são de responsabilidade deste repositório
+- O código original permanece creditado aos seus autores
 
-Desenvolvido como um projeto derivado
+## Projeto Original (README original abaixo)
 
-Modificações, melhorias e novas decisões técnicas/artísticas são de responsabilidade deste repositório
-
-O código original permanece creditado aos seus autores
-
-Projeto Original (README original abaixo)
-
-Nota:
-O conteúdo a seguir é o README original, mantido sem alterações, conforme exigido pela licença zlib e por respeito aos autores originais.
+**Nota:**
+O conteúdo a seguir é o **README original**, mantido **sem alterações**, conforme exigido pela licença zlib e por respeito aos autores originais.
 
 # Insane Nights at Snowball's
 
